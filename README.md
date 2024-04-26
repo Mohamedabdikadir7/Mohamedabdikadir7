@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... how things have been made 
 - 🌱 I’m currently learning ...web dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... om x ( formerly twitter) @moha_abdi
+
   
 
 <!---
